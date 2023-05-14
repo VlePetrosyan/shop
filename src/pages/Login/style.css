@@ -4,6 +4,8 @@ body {
     flex-direction: column;
 }
 
+
+
 .all {
     width: 350px;
     height: 500px;
@@ -39,3 +41,16 @@ button {
    background-color: rgb(64, 150, 230);
 }
 
+.background {
+    width: 350px;
+    height: 650px;
+    background-color:  rgb(4, 4, 49);
+    margin-left: 335px;
+    margin-top: 130px;
+}
+
+h2 {
+    color: gray;
+    margin-left: 92px;
+    font-size: 30px;
+}
